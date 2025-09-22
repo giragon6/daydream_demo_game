@@ -1,2 +1,3 @@
-wow some new and updated text that was updated in the main branch 
-after the conflicting branch was created
+some very different text oh no
+
+this text is very different and conflicts with the other text
